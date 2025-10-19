@@ -15,7 +15,11 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+a=16
+print(bin(a))
+
 
 ## Output
+0b10000
 ## Result
+Thus the code is successfully verified. 
